@@ -1,0 +1,28 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0;
+}
+
+header {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    width: 1000px;
+}
+
+header .top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    
+}
